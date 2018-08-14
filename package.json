@@ -1,0 +1,25 @@
+{
+  "name": "@mycleverfriend/readcsvplugin",
+  "version": "1.0.0",
+  "description": "Reads the given csv files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyCleverFriend/ReadCSVPlugin.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Mathias Mielitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyCleverFriend/ReadCSVPlugin/issues"
+  },
+  "homepage": "https://github.com/MyCleverFriend/ReadCSVPlugin#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  }
+}
